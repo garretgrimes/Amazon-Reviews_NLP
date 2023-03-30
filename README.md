@@ -1,6 +1,6 @@
 # Amazon-Reviews_NLP
 
-Please note that there are some Plotly visualizations that GitHib will not render. To view the entire notebook, recommend using nbviewer.org. Here is a link for convienence.
+Please note that there are some Plotly visualizations that GitHub will not render. To view the entire notebook, I recommend using nbviewer.org. Here is a link for convienence.
 
 https://nbviewer.org/github/garretgrimes/Amazon-Reviews_NLP/blob/main/NLP_amazon_reviews.ipynb
 
